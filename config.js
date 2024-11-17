@@ -23,7 +23,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2349013432338', '2349013432338']
+global.mods = ['96181053255', '96281053255']
 global.prems = ['2349013432338', '2349013432338', '2349013432338']
 global.allowed = ['2349013432338', '2349013432338', '2349013432338']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -71,7 +71,7 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
+global.packname = 'BATMAN BOT'
 global.author = 'OPAKSFIRE'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
